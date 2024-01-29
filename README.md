@@ -1,2 +1,2 @@
 # RCON
-RCON BOT for my pl server
+RCON BOT for my pl server.
